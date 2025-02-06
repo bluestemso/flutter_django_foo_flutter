@@ -8,5 +8,9 @@ String getImageUrl(String type) {
       return 'images/grass.png';
     case 'bug':
       return 'images/bug.png';
+    case 'error':
+      return 'images/error.png';
+    default:
+      return 'images/error.png';
   }
 }

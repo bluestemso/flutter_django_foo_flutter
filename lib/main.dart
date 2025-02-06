@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-// import 'skeleton.dart';
+import 'skeleton.dart';
 
 void main() {
   runApp(const MyApp());
